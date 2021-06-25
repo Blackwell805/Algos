@@ -58,3 +58,4 @@ console.log(adjacentElementsProduct([[-1, -2]]), "Answer should be 2");
 console.log(adjacentElementsProduct([5, 1, 2, 3, 1, 4]), "Answer should be 6");
 console.log(adjacentElementsProduct([1, 2, 3, 0]), "Answer should be 6");
 console.log(adjacentElementsProduct([-23, 4, -3, 8, -12]), "Answer should be -12");
+
